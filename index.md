@@ -5,30 +5,20 @@ This section can be like a mission statement, cover letter type deal.
 
 ### Work Experience 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+##### Red Hat
 
-```markdown
-Syntax highlighted code block
+ - Search Feature
+ - Manage and Migrate DevOps Pipeline
+ - Present to leadership and conferences
 
-# Header 1
-## Header 2
-### Header 3
+### Skills
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Education 
+Extra stuff
 
+
+### Education 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lokafsenna/lokafsenna.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Contact info links 
