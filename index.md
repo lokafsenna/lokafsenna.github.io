@@ -66,5 +66,7 @@ My personal interests include running, reading, writing, listening to music, wat
    - [marqhack](https://github.com/marqhack) - side projects and college stuff
    - [lokafsenna](https://github.com/lokafsenna) - various side projects
    - [Definitely add a Spotify Playlist for people to collab on](empty)
- 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+
+[page 2](page2)
