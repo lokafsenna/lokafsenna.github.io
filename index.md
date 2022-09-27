@@ -5,7 +5,11 @@ I enjoy working at the intersection of technology and humanity. There are plenty
 My personal interests include running, reading, writing, listening to music, watching television and movies, gardening, hiking, traveling, and making lists. Scroll through the rest of the website to learn more about my professional and personal interests.
 
 
-For a more detail record of my work experience, view my CV [here](cv)
+####Projects
+sololearn
+
+
+For a more detail record of my work experience, view my CV [here](cv.md)
 
 
 [page 2](page2)
