@@ -10,7 +10,7 @@ My personal interests include running, reading, writing, listening to music, wat
 
 
 #### Fire Inventory  
- - To try out the fire inventory app I built, click the link here: a more detail record of my work experience, view my CV [here](inventory.md)
+ - To try out the fire inventory app I built, click the link here: [here](inventory.md)
 
 
 #### Job Search
