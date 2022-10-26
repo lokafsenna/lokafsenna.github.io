@@ -3,6 +3,19 @@ Below is a summary of clothing items recovered from the fire. Scroll down to vie
 
 _Marquis's Clothes_
 
+
+
+### Belts
+
+| Number (#  | Description | Price |
+| ---------- | ----------- | ----- |
+| Belks      |             | $10   |
+| Walmart    | compression socks       | $5    |
+
+
+
+
+
 ### Shirts
 
  - 29 Long sleeves
