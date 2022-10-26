@@ -14,5 +14,5 @@ My personal interests include running, reading, writing, listening to music, wat
 
 
 #### Job Search
- - For more about my new job, see my CV! [cv][cv.md] 
+ - For more about my new job, see my CV! [cv](cv.md) 
  - Or check out my LinkedIn [here](https://www.linkedin.com/in/marquis-hackett-05a049206)
