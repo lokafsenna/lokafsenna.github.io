@@ -1,5 +1,5 @@
 # Fire Inventory
-Below is a brief history of my career. For further inquires, click here -> [Inquires](https://lokafsenna.github.io)
+Below is a summary of clothing items recovered from the fire. Scroll down to view them. For further inquires, click here -> [Inquires](https://lokafsenna.github.io)
 
 _Marquis's Clothes_
 
