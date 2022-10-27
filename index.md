@@ -17,4 +17,7 @@ My personal interests include running, reading, writing, listening to music, wat
 
 #### Job Search
  - For more about my new job, see my CV! [cv](cv.md) 
+ - Here are some of the cooler coding exercises I did while interviewing:
+   - [Cylera.io](https://github.com/Cylera/hiring-backend-engineer), and here is my completed solution - [solution](https://github.com/lokafsenna/potential-chainsaw)
+   - [Zephyr.ai](ZephyrAI.pdf)
  - Or check out my LinkedIn [here](https://www.linkedin.com/in/marquis-hackett-05a049206)
