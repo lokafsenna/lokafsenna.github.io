@@ -12,6 +12,8 @@ My personal interests include running, reading, writing, listening to music, wat
 #### Fire Inventory  
  - To try out the fire inventory app I built, click the link here: [here](inventory.md)
 
+#### Travel Ideas 
+ - Abandoned NYC Subway Station, click the link here: [here](travel.md)
 
 #### Job Search
  - For more about my new job, see my CV! [cv](cv.md) 
