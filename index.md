@@ -1,3 +1,3 @@
 [Instagram](https://www.instagram.com/madebyloka/)
-[Email](lokafsenna@gmail.com)
+[Email](mailto:lokafsenna@gmail.com)
 
