@@ -1,2 +1,3 @@
-## 984-810-9488
+[Instagram](https://www.instagram.com/madebyloka/)
+[Email](lokafsenna@gmail.com)
 
