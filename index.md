@@ -1,5 +1,6 @@
  - Email: lokafsenna@gmail.com
- - Instagram: [@madebyloka](https://www.instagram.com/madebyloka/)
- - Meme Account: [@megsliszt](https://www.instagram.com/megsliszt)
+ - instagram: [@madebyloka](https://www.instagram.com/madebyloka/)
+ - meme account: [@megsliszt](https://www.instagram.com/megsliszt)
+ - linkedin: [LinkedIn]()
 
 
