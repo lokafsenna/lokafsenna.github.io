@@ -6,5 +6,6 @@
 
 
 
-###### Portraits 
-![Loka](Loka.png)
+# I make portraits 
+![Portrait](portrait.png)
+
