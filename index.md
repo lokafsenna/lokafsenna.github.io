@@ -2,9 +2,6 @@ _Welcome!_
 
 # I make portraits 
 ![Portrait](portrait.png)
-
-# I make gardens 
-![Garden](garden.png)
  
 # I make music
 ![Album](album.png)
