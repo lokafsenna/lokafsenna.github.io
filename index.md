@@ -1,4 +1,4 @@
-![Loka](loka.png)
+_*Welcome!*_
 
 # I make portraits 
 ![Portrait](portrait.png)
