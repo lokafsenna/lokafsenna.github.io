@@ -1,4 +1,4 @@
-_*Welcome!*_
+_Welcome!_
 
 # I make portraits 
 ![Portrait](portrait.png)
@@ -11,5 +11,5 @@ _*Welcome!*_
 
 # Contact
  - Email: lokafsenna@gmail.com
- - instagram: [@madebyloka](https://www.instagram.com/madebyloka/)
- - meme account: [@megsliszt](https://www.instagram.com/megsliszt)
+ - Instagram: [@madebyloka](https://www.instagram.com/madebyloka/)
+ - Soundcloud: [lokafsenna](https://www.soundcloud.com/lokafsenna/)
