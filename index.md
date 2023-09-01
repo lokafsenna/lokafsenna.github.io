@@ -8,5 +8,4 @@ _Welcome!_
 
 # Contact
  - Email: lokafsenna@gmail.com
- - Instagram: [@madebyloka](https://www.instagram.com/madebyloka/)
  - Soundcloud: [lokafsenna](https://www.soundcloud.com/lokafsenna/)
