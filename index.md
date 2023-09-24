@@ -1,4 +1,4 @@
-_Welcome!_
+_Welcome!_ *Plans. Love. Silence.*
 
 # I make portraits 
 ![Portrait](portrait.png)
