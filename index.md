@@ -1,4 +1,4 @@
-###### We are here to help.
+###### I help people learn to enjoy themselves
 
 # We make portraits 
 ![Portrait](portrait.png)
