@@ -1,12 +1,12 @@
-_Welcome!_  
+###### We are here to help.
 
-######We are here to help.
-
-# I make portraits 
+# We make portraits 
 ![Portrait](portrait.png)
  
-# I make music
+# We make music
 ![Album](album.png)
+
+# We make plans to party 😎
 
 # Contact
  - Email: lokafsenna@gmail.com
