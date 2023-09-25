@@ -1,4 +1,6 @@
-_Welcome!_ *Plans. Love. Silence.*
+_Welcome!_  
+
+######We are here to help.
 
 # I make portraits 
 ![Portrait](portrait.png)
@@ -10,3 +12,6 @@ _Welcome!_ *Plans. Love. Silence.*
  - Email: lokafsenna@gmail.com
  - Soundcloud: [lokafsenna](https://www.soundcloud.com/lokafsenna/)
  - Instagram: [madebyloka](https://www.instagram.com/madebyloka/)
+
+*Plans. Love. Silence.*
+
