@@ -1,6 +1,4 @@
-# Event Planning
-Local event planning and coordination services. Contact us below!
-
+# Loka Senna
 
 # Contact
  - Email: lokafsenna@gmail.com
