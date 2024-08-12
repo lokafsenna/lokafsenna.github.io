@@ -2,4 +2,4 @@
 
 # Contact
  - Email: lokafsenna@gmail.com
- - Instagram: [madebyloka](https://www.instagram.com/madebyloka/)
+ - Instagram: [lightsavings](https://www.instagram.com/lightsavings/)
