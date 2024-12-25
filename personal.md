@@ -1,8 +1,4 @@
-###### I help people learn to enjoy themselves
-
 # Personal
-[personal](other.md)
-
 
 # We make portraits 
 ![Portrait](portrait.png)
@@ -11,11 +7,11 @@
 ![Album](album.png)
 
 # We make plans to party 😎
+###### We help people learn to enjoy themselves
 
 # Contact
  - Email: lokafsenna@gmail.com
  - Soundcloud: [lokafsenna](https://www.soundcloud.com/lokafsenna/)
- - Instagram: [madebyloka](https://www.instagram.com/madebyloka/)
 
 *Plans. Love. Silence.*
-
+[back to home](index.md)
