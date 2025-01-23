@@ -6,4 +6,4 @@
 
  - SoundCloud: [lokafsenna](https://www.soundcloud.com/lokafsenna/)
 
- - Contact: [Contacy](contact.md)
+ - Contact: [Contact](contact.md)
